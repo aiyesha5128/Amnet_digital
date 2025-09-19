@@ -35,9 +35,10 @@ This repository contains practice exercises using **Azure OpenAI** and **Azure A
 ## 📂 Folder Structure
 ```
 rag-experiments-demo/
-│── Lexical(RAG).py      # Example: Lexical search RAG pipeline
-│── README.md            # Project explanation and instructions
-│── ...                  # Add more RAG demos here
+│── Lexical_RAG.py
+│── README.md
+│── requirements.txt
+│── .gitignore
 ```
 
 ## 🔒 Security
