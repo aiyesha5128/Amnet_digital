@@ -13,7 +13,7 @@ This repository contains practice exercises using **Azure OpenAI** and **Azure A
 ## 🛠️ How to run
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/rag-experiments-demo.git
+   git clone https://github.com/your-username/aiyesha5128/lexical_RAG.git
    cd rag-experiments-demo
    ```
 2. Install dependencies
@@ -34,11 +34,10 @@ This repository contains practice exercises using **Azure OpenAI** and **Azure A
 
 ## 📂 Folder Structure
 ```
-rag-experiments-demo/
+lexical_RAG/
 │── Lexical_RAG.py
 │── README.md
 │── requirements.txt
-│── .gitignore
 ```
 
 ## 🔒 Security
