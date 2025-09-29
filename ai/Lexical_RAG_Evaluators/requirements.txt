@@ -1,0 +1,6 @@
+azure-search-documents==11.4.0
+azure-identity==1.16.1
+openai==1.45.0
+azure-core==1.30.1
+# Optional: for notebook usage
+jupyter==1.0.0
