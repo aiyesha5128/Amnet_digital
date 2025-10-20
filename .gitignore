@@ -2,3 +2,18 @@ bin
 obj
 *.sln
 ai/semantic_kernel
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Python caches / virtualenvs
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor configs
+.vscode/
+.idea/

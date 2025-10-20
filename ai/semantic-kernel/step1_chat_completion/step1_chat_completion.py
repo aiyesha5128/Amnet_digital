@@ -1,5 +1,5 @@
 # Step 1: Azure OpenAI Chat Completion with Semantic Kernel (Credentials Masked)
-
+# pyright: reportMissingImports=false
 from semantic_kernel import Kernel
 from semantic_kernel.connectors.ai.open_ai import AzureChatCompletion
 
